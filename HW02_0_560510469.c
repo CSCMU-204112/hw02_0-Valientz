@@ -1,4 +1,4 @@
-/* ชื่อ นามสกุล
+/* Arnuparb Jumfoo
  * 5XXXXXXXX
  * HW 07
  * Problem 3
